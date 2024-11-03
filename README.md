@@ -150,9 +150,9 @@ R2 0.9832142624649486
 
 ## Grafici e Visualizzazioni
 
-![Grafico Motor UPDRS](images/motor_updrs.png)
+![Grafico Motor UPDRS](motor_UPDRS_RandomForestRegressor_FeatureSelection.png)
 
-![Grafico Total UPDRS](images/total_updrs.png)
+![Grafico Total UPDRS](total_UPDRS_RandomForestRegressor_FeatureSelection.png)
 
 
 **Table 6: total UPDRS risultati finali**
